@@ -1,0 +1,41 @@
+Brainstorming Ideas for App
+
+//1. A dress ideas app
+Where you can get ideas for diff dresses 
+
+2. A conceptual app - A place where you can get ideas for writing poems, stories, comics, plots & where you can get ideas for making music videos and films
+Step 1: Importing all libraries, database, etc.
+Step 2: Adding Sign In, Log In, Registration Form button
+Step 3: Making a "Public Concepts" & a "Add a concept" screen
+Step 4: Adding settings,profile pic., notifications,logout button etc.
+
+3. An interior home color palette app, where you can choose a color a get a color palette revolving around it
+pick a color and we'll give  contrasting - Opposite colors,
+                                    similiar      - Harmonizing colors,
+                                   monochromatic - Shades of same color etc.
+                                   Twin Pallete - Two colors with tints and shades
+                                    Funk Pallete - Bright, boisterious color
+                                   Calming Palette - A pallete to soothe your nerves
+
+4. An app for a reccommending books according to customers choices & it will where is it availiable
+Type in which book you want a we'll give its breif description along with its nearest availiability
+
+5. An app where you can dowload the latest Bighit Entertainment group labels songs
+Mostly songs by BTS and TXT and Enhypen only
+
+6. A conceptual app - A place where you can get ideas for drawings, posters, digital art, sculptures, etc.
+Step 1: Importing all libraries, database, etc.
+Step 2: Adding Sign In, Log In, Registration Form button
+Step 3: Making a "Public Concepts" & a "Add a concept" screen
+Step 4: Adding settings,profile pic., notifications,logout button etc.
+step 5: Adding an import picture from gallery
+ 
+7. A finder app - A place where you click on the celebrity's picture & you can get their latest news and images
+//taken for reconsideration
+8. An app which shows you recipes revolving around chocolate
+https://www.delish.com/cooking/g1779/quick-easy-chocolate-desserts/
+
+9. A reminder app - A place where  you type in your h.w. and it will give you reminders abt it
+Like an alarm clock, but it will read out whatever you've written
+
+10. An offline thesaurus
